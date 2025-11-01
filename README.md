@@ -128,7 +128,7 @@ power.html
 
 ## HOMEPAGE:
 
-![alt text](<Screenshot 2025-11-02 001345.png>)
+![alt text](<Screenshot 2025-11-02 001023.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
